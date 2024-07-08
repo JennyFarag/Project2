@@ -1,0 +1,17 @@
+/* Forums.css */
+.forums-page {
+    margin-top: 20px;
+  }
+  
+  .forums-page .section-title {
+    color: #6a1b9a;
+    font-size: 2rem;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  .forums-page p {
+    color: #333;
+    font-size: 1.2rem;
+  }
+  
